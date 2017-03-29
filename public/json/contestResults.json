@@ -1,0 +1,117 @@
+{
+  "svg": [
+    "<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\"",
+    "viewBox=\"0 0 792 213\" style=\"enable-background:new 0 0 792 213;\" xml:space=\"preserve\">",
+    "<style type=\"text/css\">",
+    ".st0{fill:#423F3E;}",
+    ".st1{fill:#638974;}",
+    ".st2{fill:#A39C80;}",
+    ".st3{font-family:'BookmanOldStyle-Bold';}",
+    ".st4{font-size:77.8762px;}",
+    ".st5{fill:#1E3E4B;}",
+    ".st6{font-family:'BookAntiqua-Bold';}",
+    ".st7{font-size:51.8762px;}",
+    ".st8{letter-spacing:2;}",
+    ".st9{letter-spacing:1.4;}",
+    "</style>",
+    "<rect class=\"st0\" width=\"232\" height=\"213\"/>",
+    "<rect x=\"232\" class=\"st1\" width=\"560\" height=\"213\"/>",
+
+    "<text transform=\"matrix(1 0 0 1 61.1781 137.9296)\" class=\"st2 st3 st4 placement\">02</text>",
+    "<circle r=\".5\" stroke-width=\"4\" fill=\"yellow\" />",
+    "<g>",
+    "<text transform=\"matrix(1 0 0 1 659.8828 137.9295)\" class=\"st5 st3 st4 score\">50</text>",
+    "</g>",
+    "<text transform=\"matrix(1 0 0 1 271.1781 88.1947)\" class=\"st5 st6 st7 st8\">T</text>",
+    "<text transform=\"matrix(0.7 0 0 0.7 307.8544 88.1947)\" class=\"st5 st6 st7 st9 lName\">utka</text>",
+    "<text transform=\"matrix(1 0 0 1 271.1781 162.1947)\" class=\"st5 st6 st7 st8\">V</text>",
+    "<text transform=\"matrix(0.7 0 0 0.7 313.6039 162.1947)\" class=\"st5 st6 st7 st9 fName\">anessa</text>",
+    "</svg>"
+  ],
+  "topScores": [
+    {
+      "placement": "1",
+      "fName": "Ben",
+      "lName": "Loos",
+      "score": "34945"
+    },
+    {
+      "placement": "2",
+      "fName": "Keith",
+      "lName": "Chester",
+      "score": "929"
+    },
+    {
+      "placement": "3",
+      "fName": "Kyle",
+      "lName": "Jones",
+      "score": "734"
+    },
+    {
+      "placement": "4",
+      "fName": "Declan",
+      "lName": "McKelvey-Hembree",
+      "score": "732"
+    },
+    {
+      "placement": "5",
+      "fName": "Zach",
+      "lName": "Hartwick",
+      "score": "1715"
+    },
+    {
+      "placement": "6",
+      "fName": "Alyssa",
+      "lName": "Bryant",
+      "score": "708"
+    },
+    {
+      "placement": "7",
+      "fName": "Torrie",
+      "lName": "Masters",
+      "score": "682"
+    },
+    {
+      "placement": "8",
+      "fName": "Brian",
+      "lName": "Pritchett",
+      "score": "635"
+    },
+    {
+      "placement": "9",
+      "fName": "Megan",
+      "lName": "May",
+      "score": "634"
+    },
+    {
+      "placement": "10",
+      "fName": "Alli",
+      "lName": "Litwicki",
+      "score": "621"
+    },
+    {
+      "placement": "11",
+      "fName": "Dina",
+      "lName": "Phillippi",
+      "score": "591"
+    },
+    {
+      "placement": "12",
+      "fName": "Amber",
+      "lName": "Hawkins",
+      "score": "582"
+    },
+    {
+      "placement": "13",
+      "fName": "Brad",
+      "lName": "Harris",
+      "score": "484"
+    }
+  ],
+  "currentUser": {
+    "placement": "19",
+    "fName": "Chris",
+    "lName": "Milliano",
+    "score": "227"
+  }
+}
